@@ -1,0 +1,7 @@
+Flask
+gunicorn
+line-bot-sdk
+numpy
+Image
+keras
+tensorflow
